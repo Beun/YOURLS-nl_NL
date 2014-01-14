@@ -1,8 +1,6 @@
-# Dutch translation for Yourls (1.6)
+# Dutch translation for Yourls (1.7)
 
-## Nederlandse vertaling voor Yourls (1.6)
-( http://blog.yourls.org/2013/02/yourls-1-6-translators-wanted/ )
-
+## Nederlandse vertaling voor Yourls (1.7)
 
 ## Installatie...
 Upload bestand nl_NL.mo naar: YOUR-YOURLS-DOMAIN/user/languages
@@ -11,5 +9,5 @@ Voeg de volgende twee regels toe aan je config.php:
        //** Set custom language */   
        define( 'YOURLS_LANG', 'nl_NL' );
 
-## Vragen/opmerkingen/vertaalfouten gevonden?
+## Vragen/opmerkingen/andere dingen?
 >> http://beun.net/contact.php

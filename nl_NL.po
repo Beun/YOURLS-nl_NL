@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.6\n"
 "POT-Creation-Date: 2014-01-11 11:50+0100\n"
-"PO-Revision-Date: 2015-04-14 14:38+0100\n"
+"PO-Revision-Date: 2015-04-14 14:46+0100\n"
 "Last-Translator: Beun <mail@beun.net>\n"
 "Language-Team: \n"
 "Language: nl_NL\n"
@@ -551,7 +551,7 @@ msgid ""
 "browser's address bar, add \"<span>%s</span>\" to the beginning of the "
 "current URL (right before its 'http://' part) and hit enter."
 msgstr ""
-"Als u een pagina bekijkt, kunt u het URL van betreffende pagina ook via de "
+"Als u een pagina bekijkt, kunt u de URL van betreffende pagina ook via de "
 "adresbalk van uw browser verkorten.  Plak hiervoor \"<span>%s</span>\" in de "
 "adresbalk, direct v&oacute;&oacute;r het adres dat u wilt verkorten (dus "
 "v&oacute;&oacute;r 'http://') en druk op uw toetsenbord op enter."
@@ -1321,7 +1321,7 @@ msgstr "Ongeldige link"
 
 #: includes/functions.php:201
 msgid "Missing or malformed URL"
-msgstr "Afwezig of ongeldige URL"
+msgstr "Afwezige of ongeldige URL"
 
 #: includes/functions.php:215
 msgid "URL is a short URL"
@@ -1340,7 +1340,7 @@ msgstr "%s toegevoegd aan de database"
 
 #: includes/functions.php:283
 msgid "Error saving url to database"
-msgstr "Fout bij het opslaan van het URL in de database"
+msgstr "Fout bij het opslaan van de URL in de database"
 
 #. //translators: eg "http://someurl/ already exists"
 #: includes/functions.php:300
@@ -1400,7 +1400,7 @@ msgstr "Tijdelijk niet beschikbaar"
 
 #: includes/functions.php:2065
 msgid "Our service is currently undergoing scheduled maintenance."
-msgstr "De linkverkorter ondergaat gepland onderhoud."
+msgstr "De dienst ondergaat een gepland onderhoud."
 
 #: includes/functions.php:2066
 msgid ""

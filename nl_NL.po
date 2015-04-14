@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.6\n"
 "POT-Creation-Date: 2014-01-11 11:50+0100\n"
-"PO-Revision-Date: 2014-01-14 22:56+0100\n"
+"PO-Revision-Date: 2015-04-14 14:46+0100\n"
 "Last-Translator: Beun <mail@beun.net>\n"
 "Language-Team: \n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.3\n"
+"X-Generator: Poedit 1.7.5\n"
 "X-Poedit-KeywordsList: yourls__;yourls_e;yourls_s;yourls_se;"
 "yourls_esc_attr__;yourls_esc_html__;yourls_x;yourls_ex;yourls_esc_attr_x;"
 "yourls_esc_html_x;yourls_n:1,2;yourls_nx:1,2;yourls_n_noop:1,2;"
@@ -28,7 +28,7 @@ msgstr "Statistieken voor %s"
 #: includes/functions-html.php:221 includes/functions-html.php:464
 #: includes/functions-html.php:626
 msgid "Short URL"
-msgstr "Kort URL"
+msgstr "Korte URL"
 
 #: yourls-infos.php:227
 msgid "Aggregate stats for duplicate short URLs"
@@ -36,7 +36,7 @@ msgstr "Geaggregeerde statistieken voor dubbele korte URL's"
 
 #: yourls-infos.php:229 includes/functions-html.php:464
 msgid "Long URL"
-msgstr "Lang URL"
+msgstr "Lange URL"
 
 #: yourls-infos.php:235 yourls-infos.php:246
 msgid "Traffic statistics"
@@ -91,7 +91,7 @@ msgstr[1] "Ongeveer %s dagen geleden"
 #: yourls-infos.php:341
 #, php-format
 msgid "Short URL created on %s"
-msgstr "Kort URL aangemaakt op %s"
+msgstr "Korte URL aangemaakt op %s"
 
 #: yourls-infos.php:356 yourls-infos.php:363
 #, php-format
@@ -140,7 +140,7 @@ msgstr[1] "%s hits"
 
 #: yourls-infos.php:426
 msgid "No traffic yet. Get some clicks first!"
-msgstr "Er is nog geen verkeer waargenomen. Regel dat men op je links klikt."
+msgstr "Er is nog geen verkeer waargenomen. Nog even afwachten!"
 
 #: yourls-infos.php:441
 msgid "Top 5 countries"
@@ -241,7 +241,7 @@ msgstr "Clicks"
 #: admin/index.php:187 admin/index.php:198 admin/index.php:209
 #, php-format
 msgid "Short URL created, but could not redirect to %s !"
-msgstr "Kort URL aangemaakt, maar kon niet doorverwijzen naar %s !"
+msgstr "Korte URL aangemaakt, maar kon niet doorverwijzen naar %s !"
 
 #: admin/index.php:219
 msgid "Unknown \"Share\" bookmarklet"
@@ -487,7 +487,7 @@ msgstr "Direct (popup)"
 
 #: admin/tools.php:47
 msgid "Simple"
-msgstr "Simpel"
+msgstr "Eenvoudig"
 
 #: admin/tools.php:48 admin/tools.php:49 admin/tools.php:53 admin/tools.php:54
 #: admin/tools.php:68 admin/tools.php:70 admin/tools.php:72
@@ -521,12 +521,12 @@ msgstr "Sociale Bookmarklets"
 #: admin/tools.php:61
 msgid "Create a short URL and share it on social networks, all in one click!"
 msgstr ""
-"Maak een kort URL aan en deel het op sociale media, allemaal met &eacute;"
+"Maak een korte URL aan en deel hem op sociale media, allemaal met &eacute;"
 "&eacute;n klik!"
 
 #: admin/tools.php:64
 msgid "Shorten and share:"
-msgstr "Verkort het URL en deel:"
+msgstr "Verkort de URL en deel:"
 
 #: admin/tools.php:68
 msgid "YOURLS &amp; Facebook"
@@ -551,7 +551,7 @@ msgid ""
 "browser's address bar, add \"<span>%s</span>\" to the beginning of the "
 "current URL (right before its 'http://' part) and hit enter."
 msgstr ""
-"Als u een pagina bekijkt, kunt u het URL van betreffende pagina ook via de "
+"Als u een pagina bekijkt, kunt u de URL van betreffende pagina ook via de "
 "adresbalk van uw browser verkorten.  Plak hiervoor \"<span>%s</span>\" in de "
 "adresbalk, direct v&oacute;&oacute;r het adres dat u wilt verkorten (dus "
 "v&oacute;&oacute;r 'http://') en druk op uw toetsenbord op enter."
@@ -567,7 +567,7 @@ msgstr "(wat hier het geval lijkt te zijn)"
 
 #: admin/tools.php:93
 msgid "Secure passwordless API call"
-msgstr "Veilige wachtwoordloze API-call"
+msgstr "Beveiligde wachtwoordloze API-call"
 
 #: admin/tools.php:96
 msgid ""
@@ -749,7 +749,7 @@ msgstr "Ongeldige gebruikersnaam of wachtwoord"
 
 #: includes/functions-auth.php:104
 msgid "Please log in"
-msgstr "U mag inloggen a.u.b."
+msgstr "Gelieve in te loggen"
 
 #: includes/functions-html.php:142
 #, php-format
@@ -765,7 +765,7 @@ msgstr "Powered by %s"
 
 #: includes/functions-html.php:175
 msgid "Enter the URL"
-msgstr "Voer het lange URL in"
+msgstr "Voer de lange URL in"
 
 #: includes/functions-html.php:176
 msgid "Optional "
@@ -773,11 +773,11 @@ msgstr "&nbsp;Optioneel"
 
 #: includes/functions-html.php:176
 msgid "Custom short URL"
-msgstr "Kort URL op maat"
+msgstr "Korte URL naar keuze"
 
 #: includes/functions-html.php:178
 msgid "Shorten The URL"
-msgstr "Verkort het URL"
+msgstr "Verkort de URL"
 
 #: includes/functions-html.php:212 includes/functions-html.php:224
 #: includes/functions-html.php:629
@@ -875,7 +875,7 @@ msgstr "Uw korte link"
 
 #: includes/functions-html.php:388
 msgid "Long link"
-msgstr "Langen "
+msgstr "Lange link "
 
 #: includes/functions-html.php:390 includes/functions-html.php:499
 #: includes/functions-html.php:500
@@ -884,7 +884,7 @@ msgstr "Statistieken"
 
 #: includes/functions-html.php:404
 msgid "Share with"
-msgstr "Deel met"
+msgstr "Deel via"
 
 #: includes/functions-html.php:405
 msgid "Tweet this!"
@@ -1288,7 +1288,7 @@ msgid "Could not find and deactivated plugin :"
 msgid_plural "Could not find and deactivated plugins :"
 msgstr[0] "De volgende plugin kon niet worden gevonden, en is gedeactiveerd :"
 msgstr[1] ""
-"De volgende plugins konde niet worden gevonden, en zijn gedeactiveerd :"
+"De volgende plugins konden niet worden gevonden, en zijn gedeactiveerd :"
 
 #: includes/functions-plugins.php:425
 msgid "Not a valid plugin file"
@@ -1321,7 +1321,7 @@ msgstr "Ongeldige link"
 
 #: includes/functions.php:201
 msgid "Missing or malformed URL"
-msgstr "Afwezig of ongeldig URL"
+msgstr "Afwezige of ongeldige URL"
 
 #: includes/functions.php:215
 msgid "URL is a short URL"
@@ -1340,7 +1340,7 @@ msgstr "%s toegevoegd aan de database"
 
 #: includes/functions.php:283
 msgid "Error saving url to database"
-msgstr "Fout bij het opslaan van het URL in de database"
+msgstr "Fout bij het opslaan van de URL in de database"
 
 #. //translators: eg "http://someurl/ already exists"
 #: includes/functions.php:300
@@ -1400,7 +1400,7 @@ msgstr "Tijdelijk niet beschikbaar"
 
 #: includes/functions.php:2065
 msgid "Our service is currently undergoing scheduled maintenance."
-msgstr "De linkverkorter ondergaat gepland onderhoud."
+msgstr "De dienst ondergaat een gepland onderhoud."
 
 #: includes/functions.php:2066
 msgid ""

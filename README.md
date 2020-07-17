@@ -1,6 +1,6 @@
-# Dutch translation for Yourls (1.7)
+# Dutch translation for Yourls (1.7.x)
 
-## Nederlandse vertaling voor Yourls (1.7)
+## Nederlandse vertaling voor Yourls (1.7.x)
 
 ## Installatie...
 Upload bestand nl_NL.mo naar: YOUR-YOURLS-DOMAIN/user/languages

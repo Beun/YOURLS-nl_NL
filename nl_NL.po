@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.6\n"
 "POT-Creation-Date: 2014-01-11 11:50+0100\n"
-"PO-Revision-Date: 2014-01-14 22:56+0100\n"
+"PO-Revision-Date: 2020-07-17 22:35+0200\n"
 "Last-Translator: Beun <mail@beun.net>\n"
 "Language-Team: \n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.3\n"
+"X-Generator: Poedit 2.3.1\n"
 "X-Poedit-KeywordsList: yourls__;yourls_e;yourls_s;yourls_se;"
 "yourls_esc_attr__;yourls_esc_html__;yourls_x;yourls_ex;yourls_esc_attr_x;"
 "yourls_esc_html_x;yourls_n:1,2;yourls_nx:1,2;yourls_n_noop:1,2;"
@@ -84,7 +84,7 @@ msgstr "Historisch aantal clicks"
 #, php-format
 msgid "about 1 day ago"
 msgid_plural "about %s days ago"
-msgstr[0] "Ongeveer 1 dag geleden"
+msgstr[0] "ongeveer 1 dag geleden"
 msgstr[1] "Ongeveer %s dagen geleden"
 
 #. //translators: eg Short URL created on March 23rd 1972
@@ -140,7 +140,8 @@ msgstr[1] "%s hits"
 
 #: yourls-infos.php:426
 msgid "No traffic yet. Get some clicks first!"
-msgstr "Er is nog geen verkeer waargenomen. Regel dat men op je links klikt."
+msgstr ""
+"Er is nog geen verkeer waargenomen. Zorg dat mensen op je links gaan klikken!"
 
 #: yourls-infos.php:441
 msgid "Top 5 countries"
@@ -304,7 +305,7 @@ msgstr "Installeer YOURLS"
 
 #: admin/install.php:74
 msgid "YOURLS Administration Page"
-msgstr "YOURLS Administratiepagina."
+msgstr "YOURLS Administratiepagina"
 
 #: admin/plugins.php:38
 msgid "Unsupported action"
@@ -312,7 +313,7 @@ msgstr "Niet ondersteunde actie"
 
 #: admin/plugins.php:42
 msgid "No plugin specified, or not a valid plugin"
-msgstr "Er is geen plugin gespecificeerd, of de plugin is niet geldig."
+msgstr "Er is geen plugin gespecificeerd, of de plugin is niet geldig"
 
 #: admin/plugins.php:51
 msgid "Plugin has been activated"
@@ -378,7 +379,7 @@ msgstr "Activeer"
 #: admin/plugins.php:133
 #, php-format
 msgid "plugin file location: %s"
-msgstr "Bestandslocatie van plugin: %s"
+msgstr "bestandslocatie van plugin: %s"
 
 #: admin/plugins.php:150
 msgid "Toggle active/inactive plugins"
@@ -465,7 +466,7 @@ msgid ""
 msgstr ""
 "Als u een omschrijving aan het te maken korte URL wilt toevoegen, "
 "<span>selecteer dan een stuk tekst</span> op de betreffende pagina, voordat "
-"u op de bookmarklet-link klikt."
+"u op de bookmarklet-link klikt"
 
 #: admin/tools.php:33
 msgid "The Bookmarklets"
@@ -563,7 +564,7 @@ msgstr "NB: Dit werkt waarschijnlijk niet als uw webserver op Windows draait"
 
 #: admin/tools.php:87
 msgid " (which seems to be the case here)"
-msgstr "(wat hier het geval lijkt te zijn)"
+msgstr " (wat hier het geval lijkt te zijn)"
 
 #: admin/tools.php:93
 msgid "Secure passwordless API call"
@@ -594,7 +595,7 @@ msgstr "Uw 'secret signature token' is: <strong><code>%s</code></strong>"
 
 #: admin/tools.php:103
 msgid "(It's a secret. Keep it secret) "
-msgstr " (Is geheim. Houd dat zo.)"
+msgstr "(Is geheim, en moet dat ook blijven.)"
 
 #: admin/tools.php:106
 msgid ""
@@ -636,7 +637,7 @@ msgstr "Werkelijke waarden:"
 #: admin/tools.php:126
 #, php-format
 msgid "This URL would be valid for only %s seconds"
-msgstr "Dit URL zou geldig zijn voor de duur van %s seconden."
+msgstr "Dit URL zou geldig zijn voor slechts %s seconden"
 
 #: admin/tools.php:130
 #, php-format
@@ -699,7 +700,7 @@ msgstr "Upgrade"
 
 #: admin/upgrade.php:77
 msgid "Your installation is now up to date ! "
-msgstr "Uw installatie is bijgewerkt naar de laatste versie!"
+msgstr "Uw installatie is bijgewerkt naar de laatste versie! "
 
 #: admin/upgrade.php:78
 #, php-format
@@ -749,7 +750,7 @@ msgstr "Ongeldige gebruikersnaam of wachtwoord"
 
 #: includes/functions-auth.php:104
 msgid "Please log in"
-msgstr "U mag inloggen a.u.b."
+msgstr "Inloggen"
 
 #: includes/functions-html.php:142
 #, php-format
@@ -769,7 +770,7 @@ msgstr "Voer het lange URL in"
 
 #: includes/functions-html.php:176
 msgid "Optional "
-msgstr "&nbsp;Optioneel"
+msgstr "&nbsp;Optioneel "
 
 #: includes/functions-html.php:176
 msgid "Custom short URL"
@@ -875,7 +876,7 @@ msgstr "Uw korte link"
 
 #: includes/functions-html.php:388
 msgid "Long link"
-msgstr "Langen "
+msgstr "Lange link"
 
 #: includes/functions-html.php:390 includes/functions-html.php:499
 #: includes/functions-html.php:500
@@ -948,7 +949,7 @@ msgstr "Wachtwoord"
 
 #: includes/functions-html.php:705
 msgid "Login"
-msgstr "Log in"
+msgstr "Inloggen"
 
 #: includes/functions-html.php:723 user/themes/full-bootstrap/theme.php:87
 #, php-format
@@ -957,7 +958,7 @@ msgstr "Hallo <strong>%s</strong>"
 
 #: includes/functions-html.php:723 user/themes/full-bootstrap/theme.php:87
 msgid "Logout"
-msgstr "Log uit"
+msgstr "Uitloggen"
 
 #: includes/functions-html.php:727
 msgid "Help"
@@ -1368,7 +1369,7 @@ msgid ""
 "if you are not redirected after 10 seconds, please <a href=\"%s\">click "
 "here</a>"
 msgstr ""
-"Als u niet automatisch wordt doorgestuurd na tien seconden, klik dan <a href="
+"als u niet automatisch wordt doorgestuurd na tien seconden, klik dan <a href="
 "\"%s\">hier</a>"
 
 #: includes/functions.php:769
@@ -1407,7 +1408,7 @@ msgid ""
 "Things should not last very long, thank you for your patience and please "
 "excuse the inconvenience"
 msgstr ""
-"Als het goed gaat duurt dit niet lang. Dank voor uw geduld en excuses voor "
+"Als alles goed gaat duurt dit niet lang. Dank voor uw geduld en excuses voor "
 "het ongemak."
 
 #: includes/functions.php:2186

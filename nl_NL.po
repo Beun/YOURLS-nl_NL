@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.6\n"
 "POT-Creation-Date: 2014-01-11 11:50+0100\n"
-"PO-Revision-Date: 2020-07-17 22:35+0200\n"
+"PO-Revision-Date: 2020-07-17 22:45+0200\n"
 "Last-Translator: Beun <mail@beun.net>\n"
 "Language-Team: \n"
 "Language: nl_NL\n"
@@ -433,14 +433,14 @@ msgid ""
 "easily edit or delete your brand new short URL."
 msgstr ""
 "De <span>Standaard Bookmarklets</span> brengen u naar een pagina waar u "
-"eenvoudig het nieuwe korte URL kunt aanpassen of weer kunt verwijderen."
+"eenvoudig de nieuwe korte URL kunt aanpassen of weer kunt verwijderen."
 
 #: admin/tools.php:22
 msgid ""
 "The <span>Instant Bookmarklets</span> will pop the short URL without leaving "
 "the page you are viewing."
 msgstr ""
-"De <span>Directe Bookmarklets</span> tonen het nieuwe korte URL zonder de "
+"De <span>Directe Bookmarklets</span> tonen de nieuwe korte URL onder de "
 "pagina te verlaten die u voor heeft staan."
 
 #: admin/tools.php:24
@@ -527,7 +527,7 @@ msgstr ""
 
 #: admin/tools.php:64
 msgid "Shorten and share:"
-msgstr "Verkort het URL en deel:"
+msgstr "Verkort de URL en deel:"
 
 #: admin/tools.php:68
 msgid "YOURLS &amp; Facebook"
@@ -552,7 +552,7 @@ msgid ""
 "browser's address bar, add \"<span>%s</span>\" to the beginning of the "
 "current URL (right before its 'http://' part) and hit enter."
 msgstr ""
-"Als u een pagina bekijkt, kunt u het URL van betreffende pagina ook via de "
+"Als u een pagina bekijkt, kunt u de URL van betreffende pagina ook via de "
 "adresbalk van uw browser verkorten.  Plak hiervoor \"<span>%s</span>\" in de "
 "adresbalk, direct v&oacute;&oacute;r het adres dat u wilt verkorten (dus "
 "v&oacute;&oacute;r 'http://') en druk op uw toetsenbord op enter."
@@ -1341,7 +1341,7 @@ msgstr "%s toegevoegd aan de database"
 
 #: includes/functions.php:283
 msgid "Error saving url to database"
-msgstr "Fout bij het opslaan van het URL in de database"
+msgstr "Fout bij het opslaan van de URL in de database"
 
 #. //translators: eg "http://someurl/ already exists"
 #: includes/functions.php:300

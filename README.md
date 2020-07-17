@@ -10,4 +10,4 @@ Voeg de volgende twee regels toe aan je config.php:
        define( 'YOURLS_LANG', 'nl_NL' );
 
 ## Vragen/opmerkingen/andere dingen?
->> http://beun.net/contact.php
+>> https://beun.net
